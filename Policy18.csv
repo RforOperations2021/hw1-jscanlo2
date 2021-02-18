@@ -1,0 +1,56 @@
+State_Full,State_Abbr,VR_AnsBy,UOCAVA_AnsBy,Dom_Mail_AnsBy,Person_AnsBy,Provis_AnsBy,Tech_AnsBy,System,Data_Share,DMV_Share,Disab_Share,PubAsst_Share,NonNVRA_Share,Fed_Share,Mili_Share,Death_Share,Felon_Share,Ment_Share,AVR,AVR_DMV,AVR_Tax,AVR_Oth,AVR_Through,AVR_ref,Reg_online,AVR_licen,Same_Day,SDR,Mail_excuse,All_mail,All_mail_extent,mail_deadline,early,early_excuse,gov_photoid_req,gov_nonphoto,nongov_id,vouch,affidavit,aff_other,id_ref,fel_rem_rule,fel_rem_time,fel_eligible,Freq,Aff
+Alabama,AL,1,3,3,1,3,1,1,-100,4,1,1,1,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,1,2,-100,1,2,1,1,0,0,0,0,1,0,2,2,4,1,Republican
+Alaska,AK,1,1,1,1,1,1,1,-100,4,1,1,4,1,1,1,1,1,Yes,1,0,1,DMV + Other Agency,0,Yes,1,Yes,SDR in Very Specific Cases,2,2,-100,2,1,2,1,1,1,1,0,0,0,2,2,3,1,Republican
+American Samoa,AS,1,1,1,1,1,1,1,-100,1,4,4,4,-99,1,4,4,4,No,-100,-100,-100,No AVR,-100,No,-100,No,No SDR,2,2,-100,2,1,1,1,0,0,0,0,0,0,1,2,3,1,Other
+Arizona,AZ,2,2,2,2,2,2,3,1,3,1,1,1,1,1,4,4,4,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,2,2,-100,-99,1,2,0,0,0,0,1,0,0,1,2,4,1,Swing
+Arkansas,AR,1,2,2,2,2,1,1,-100,3,4,4,1,1,1,4,4,1,Yes,1,0,0,DMV,0,No,-100,No,No SDR,1,2,-100,2,1,2,1,0,0,0,1,0,0,1,2,3,1,Republican
+California,CA,1,1,1,1,3,1,2,1,2,1,1,1,1,1,4,4,4,Yes,1,0,0,DMV,0,Yes,2,Yes,SDR on Election Day,2,1,2,2,1,2,0,0,0,0,1,0,0,4,2,1,1,Democratic
+Colorado,CO,1,1,1,3,1,3,1,-100,4,1,1,1,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,Yes,SDR on Election Day,2,1,1,-99,1,2,0,1,1,0,0,1,0,1,2,1,1,Democratic
+Connecticut,CT,1,1,1,1,1,1,1,-100,4,1,1,1,4,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,Yes,SDR on Election Day,1,2,-100,-99,2,1,0,1,1,0,1,0,0,4,2,1,1,Democratic
+Delaware,DE,1,1,1,1,1,1,1,-100,2,4,4,2,1,1,4,2,1,Yes,1,0,0,DMV,0,Yes,2,No,No SDR,1,2,-100,-99,2,1,0,1,1,0,1,1,0,2,2,1,1,Democratic
+District Of Columbia,DC,1,1,1,1,1,1,1,-100,4,1,1,1,1,1,4,1,1,Yes,1,0,0,DMV,0,Yes,2,Yes,SDR on Election Day,2,2,-100,-99,1,2,-99,-99,-99,-99,-99,-99,1,4,1,1,1,Democratic
+Florida,FL,1,2,2,2,2,2,1,-100,4,1,1,1,1,1,4,3,1,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,2,2,-100,2,2,2,-99,-99,-99,-99,-99,-99,1,1,3,4,1,Swing
+Georgia,GA,1,1,1,1,3,1,1,-100,3,1,1,4,4,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,2,2,-100,2,1,2,1,0,0,0,0,0,0,1,2,1,1,Republican
+Guam,GU,1,1,1,1,1,1,1,-100,1,1,1,1,1,1,1,1,1,No,-100,-100,-100,No AVR,-100,Yes,1,Yes,Some SDR/Early Voting Overlap,1,2,-100,2,2,1,1,1,0,0,0,1,0,4,1,1,1,Other
+Hawaii,HI,3,3,3,3,3,3,1,-100,4,1,1,4,1,1,4,4,4,No,-100,-100,-100,No AVR,-100,Yes,2,Yes,SDR on Election Day,2,2,-100,2,1,2,0,1,1,0,1,0,0,1,1,1,1,Democratic
+Idaho,ID,2,2,2,2,2,2,1,-100,2,1,1,1,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,Yes,SDR on Election Day,2,2,-100,-99,1,2,1,1,0,1,1,0,0,1,2,1,1,Republican
+Illinois,IL,3,3,3,3,3,3,2,3,3,4,4,1,2,1,3,3,1,Yes,1,0,0,DMV,0,Yes,1,Yes,SDR on Election Day,2,2,-100,2,1,2,0,0,0,0,1,0,0,4,1,1,1,Democratic
+Indiana,IN,3,3,3,3,3,3,1,-100,3,1,1,1,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,1,2,-100,-99,2,2,1,0,0,0,0,0,0,4,1,1,1,Republican
+Iowa,IA,3,3,3,3,3,3,1,-100,4,1,1,4,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,Yes,SDR on Election Day,2,2,-100,1,2,2,1,1,0,1,1,0,0,1,3,4,1,Republican
+Kansas,KS,3,3,3,3,3,3,1,-100,4,1,1,4,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,2,2,-100,2,1,2,1,0,0,0,0,0,0,1,2,1,1,Republican
+Kentucky,KY,1,1,1,1,1,1,1,-100,2,3,3,1,1,1,4,4,4,Yes,1,0,0,DMV,0,Yes,2,No,No SDR,1,2,-100,1,2,1,0,1,1,1,0,0,0,1,3,4,1,Republican
+Louisiana,LA,1,1,1,1,1,1,1,-100,3,1,1,1,1,1,3,3,1,Yes,1,0,1,DMV + Other Agency,0,Yes,2,No,No SDR,1,2,-100,-99,1,2,0,1,0,0,1,0,0,1,2,3,1,Republican
+Maine,ME,1,1,1,3,3,1,3,1,4,1,1,1,1,1,4,1,1,No,-100,-100,-100,No AVR,-100,No,-100,Yes,SDR on Election Day,2,2,-100,-99,2,2,-99,-99,-99,-99,-99,-99,1,5,-100,-100,1,Democratic
+Maryland,MD,1,1,1,1,1,1,1,-100,2,4,4,4,1,1,4,4,1,Yes,1,0,1,DMV + Other Agency,0,Yes,2,Yes,SDR for Early Voting Only,2,2,-100,2,1,2,-99,-99,-99,-99,-99,-99,1,4,1,1,1,Democratic
+Massachusetts,MA,2,2,2,2,2,3,1,-100,3,1,1,1,1,1,2,1,1,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,1,2,-100,-99,1,2,0,1,1,0,0,1,0,4,1,1,1,Democratic
+Michigan,MI,1,3,3,3,3,3,1,-100,3,1,1,1,1,1,3,1,1,Yes,1,0,0,DMV,0,No,-100,No,No SDR,1,2,-100,2,2,1,1,0,0,0,1,0,0,4,1,2,1,Swing
+Minnesota,MN,1,1,1,1,1,1,1,-100,3,1,1,1,1,1,3,2,2,Yes,1,0,0,DMV,0,Yes,2,Yes,SDR on Election Day,2,1,2,-99,2,2,0,0,0,0,1,0,0,1,2,1,1,Democratic
+Mississippi,MS,3,3,3,3,3,3,2,1,3,1,1,1,1,1,3,3,1,No,-100,-100,-100,No AVR,-100,No,-100,Yes,Some SDR/Early Voting Overlap,1,2,-100,1,2,1,0,0,0,0,1,0,0,2,-99,4,1,Republican
+Missouri,MO,2,2,2,2,2,3,1,-100,1,1,1,1,1,1,3,3,1,No,-100,-100,-100,No AVR,-100,Yes,2,No,No SDR,1,2,-100,-99,2,1,0,1,1,0,1,0,0,1,2,1,1,Republican
+Montana,MT,3,3,2,2,2,3,1,-100,4,4,4,4,4,1,3,4,4,No,-100,-100,-100,No AVR,-100,No,-100,Yes,SDR on Election Day,2,2,-100,-99,2,2,1,1,1,0,0,1,0,4,1,1,1,Republican
+Nebraska,NE,1,1,1,3,1,1,1,-100,4,1,3,3,1,1,3,3,1,Yes,1,0,0,DMV,0,Yes,1,Yes,SDR for Early Voting Only,2,1,2,-99,1,2,0,1,1,0,0,0,0,1,3,1,1,Republican
+Nevada,NV,3,3,3,3,3,3,2,2,3,1,1,2,1,1,3,1,1,No,-100,-100,-100,No AVR,-100,Yes,1,No,No SDR,2,2,-100,-99,1,2,0,1,1,1,1,1,0,3,2,3,1,Democratic
+New Hampshire,NH,3,3,3,3,1,1,1,-100,4,1,1,1,1,1,4,1,1,No,-100,-100,-100,No AVR,-100,No,-100,Yes,SDR on Election Day,1,2,-100,-99,2,1,1,0,0,0,0,0,0,3,1,1,1,Democratic
+New Jersey,NJ,1,1,1,1,1,1,1,-100,3,4,4,4,4,1,4,4,1,Yes,1,0,0,DMV,0,No,-100,No,No SDR,2,2,-100,2,2,2,1,1,1,0,0,0,0,4,2,1,1,Democratic
+New Mexico,NM,3,3,3,3,3,3,1,-100,2,1,1,1,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,Yes,Some SDR/Early Voting Overlap,2,2,-100,-99,2,2,0,0,0,0,1,0,0,1,3,3,1,Democratic
+New York,NY,2,2,2,2,2,2,2,1,4,1,1,1,1,1,4,4,4,No,-100,-100,-100,No AVR,-100,Yes,1,No,No SDR,1,2,-100,1,2,1,1,1,1,0,1,0,0,4,2,1,1,Democratic
+North Carolina,NC,1,1,1,3,1,3,3,1,3,1,1,4,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,Yes,SDR for Early Voting Only,2,2,-100,2,2,2,0,0,0,0,1,0,0,1,2,1,1,Republican
+North Dakota,ND,1,1,1,1,1,1,1,-100,3,1,1,1,1,1,4,4,4,No,-100,-100,-100,No AVR,-100,No,-100,No,No SDR,2,2,-100,1,1,2,1,1,0,0,0,0,0,4,1,2,1,Republican
+Ohio,OH,3,3,3,3,3,3,2,1,3,1,1,1,1,1,4,1,1,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,2,2,-100,1,2,2,0,1,1,0,0,0,0,-99,-100,-100,1,Republican
+Oklahoma,OK,1,1,1,1,1,1,3,2,4,1,4,1,1,1,4,1,1,Yes,1,0,0,DMV,0,No,-100,No,No SDR,2,2,-100,-99,2,2,1,1,0,0,1,0,0,1,2,1,1,Republican
+Oregon,OR,1,1,1,1,1,1,1,-100,2,1,1,1,1,1,3,4,4,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,2,1,1,-99,1,2,0,0,0,0,1,0,0,1,1,1,1,Democratic
+Pennsylvania,PA,1,1,1,1,1,3,1,-100,3,4,4,-99,1,1,3,1,1,Yes,1,0,1,DMV + Other Agency,0,Yes,2,No,No SDR,1,2,-100,-99,2,1,0,0,0,0,1,0,0,4,1,3,1,Swing
+Puerto Rico,PR,3,1,3,3,3,1,1,-100,1,1,1,1,1,1,1,4,1,No,-100,-100,-100,No AVR,-100,No,-100,No,No SDR,1,2,-100,1,1,1,-99,-99,-99,-99,-99,-99,1,5,-100,-100,1,Other
+Rhode Island,RI,1,1,1,1,1,1,1,-100,4,4,4,4,4,1,4,4,4,Yes,1,0,0,DMV,0,Yes,2,Yes,SDR in Very Specific Cases,2,2,-100,-99,2,2,0,0,0,0,1,0,0,4,1,2,1,Democratic
+South Carolina,SC,1,1,1,1,1,1,1,-100,4,4,4,1,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,Yes,Some SDR/Early Voting Overlap,1,2,-100,-99,2,1,1,0,0,0,1,0,0,1,2,1,1,Republican
+South Dakota,SD,2,2,2,2,2,3,1,-100,2,1,1,3,1,1,3,3,3,Yes,1,0,1,DMV + Other Agency,0,No,-100,No,No SDR,2,2,-100,-99,2,2,1,0,0,0,1,0,0,1,2,1,1,Republican
+Tennessee,TN,2,2,2,2,2,2,2,2,4,4,4,-99,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,No,No SDR,1,2,-100,2,1,2,1,0,0,0,0,1,0,1,2,3,1,Republican
+Texas,TX,2,2,2,2,2,2,3,2,3,1,1,1,1,1,3,3,1,Yes,1,0,1,DMV + Other Agency,0,No,-100,No,No SDR,1,2,-100,2,1,2,1,1,1,0,0,1,0,1,2,1,1,Republican
+Utah,UT,1,3,1,3,1,3,3,1,2,4,4,1,1,1,4,4,1,Yes,1,0,0,DMV,0,Yes,1,Yes,SDR on Election Day,2,1,2,1,1,2,0,1,1,0,0,1,0,4,1,1,1,Republican
+Vermont,VT,2,2,2,2,2,3,3,1,4,1,1,1,1,1,1,1,1,Yes,1,0,0,DMV,0,Yes,2,Yes,SDR on Election Day,2,2,-100,-99,2,2,-99,-99,-99,-99,-99,-99,1,5,-100,-100,1,Democratic
+Virgin Islands,VI,1,1,1,1,1,1,1,-100,1,1,1,1,1,1,4,4,1,No,-100,-100,-100,No AVR,-100,No,-100,No,No SDR,1,2,-100,2,1,2,1,0,0,0,1,1,0,1,2,3,1,Other
+Virginia,VA,3,3,3,3,3,3,1,-100,3,4,4,4,1,1,3,3,3,Yes,1,0,0,DMV,0,Yes,2,No,No SDR,1,2,-100,2,2,1,1,0,0,0,0,1,0,1,3,4,1,Democratic
+Washington,WA,3,3,3,3,3,3,2,1,2,3,3,1,1,1,3,3,1,Yes,1,0,0,DMV,0,Yes,1,Yes,Some SDR/Early Voting Overlap,2,1,1,2,1,2,1,1,1,0,1,1,0,4,1,1,1,Democratic
+West Virginia,WV,3,3,3,3,3,3,1,-100,4,1,1,1,1,1,4,4,1,No,-100,-100,-100,No AVR,-100,Yes,1,No,No SDR,1,2,-100,2,1,2,1,1,1,1,0,1,0,1,2,1,1,Republican
+Wisconsin,WI,1,1,1,1,1,1,1,-100,3,1,1,1,1,1,4,3,1,No,-100,-100,-100,No AVR,-100,Yes,1,Yes,SDR on Election Day,2,2,-100,-99,2,2,1,0,0,0,0,0,0,1,2,1,1,Swing
+Wyoming,WY,1,1,1,1,1,3,1,-100,3,1,1,3,1,1,3,3,1,No,-100,-100,-100,No AVR,-100,No,-100,Yes,SDR on Election Day,2,2,-100,2,2,2,-99,-99,-99,-99,-99,-99,1,1,3,4,1,Republican
