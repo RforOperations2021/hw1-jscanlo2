@@ -5,8 +5,8 @@ account: jeffrey-scanlon
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3662996
-bundleId: 4246196
+bundleId: 4246911
 url: https://jeffrey-scanlon.shinyapps.io/VotingRights/
-when: 1613760679.30623
+when: 1613776818.47928
 asMultiple: FALSE
 asStatic: FALSE
