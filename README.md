@@ -4,5 +4,6 @@ This web app uses data from the U.S. Election Assistance Commission. The data is
 
 The app aims to deliver a comprehensive overview and comparison of various voting and election policies across the U.S., including topics like registration (automatic, online, same-day), registration invalidation and voter purging, felony disenfranchisement, and voter identification laws.
 
-**Link to the Web App**/
+**Link to the Web App**
+
 [http://jeffrey-scanlon.shinyapps.io/VotingRights](http://jeffrey-scanlon.shinyapps.io/VotingRights)
